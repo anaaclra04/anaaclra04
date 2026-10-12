@@ -20,6 +20,7 @@
 
 Hi, I'm **Ana Clara**. I'm a Computer Science senior at the **University of Central Florida** in Orlando, and I build full-stack web projects.
 
+- 👩‍💻 Systems & Software Engineer Intern at Dual Drinks LLC
 - 🎓 Teaching Assistant for **Computer Architecture** (250+ students) and **Senior Design II**
 - 📝 Course Content Reviewer for UCF's **AI for Software Engineering** curriculum (COP 4932)
 - 🔍 Growing interest in **AI tooling** and **fraud detection systems**
@@ -32,7 +33,7 @@ Hi, I'm **Ana Clara**. I'm a Computer Science senior at the **University of Cent
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,python,flask,flutter&perline=8" alt="Languages and frameworks" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,tailwind,pytest,digitalocean,git,github&perline=9" alt="Databases, tools and infra" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,tailwind,jest,pytest,docker,digitalocean,git,github&perline=11" alt="Databases, tools and infra" />
 
 </div>
 
@@ -43,8 +44,20 @@ Hi, I'm **Ana Clara**. I'm a Computer Science senior at the **University of Cent
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/anaaclra04/idx-property-search">IDX Property Search</a></h3>
+      <p>A Zillow/Redfin-style property search experience backed by real MLS data. Browse, filter and explore listings with full detail pages, interactive maps and open house schedules.</p>
+      <img src="https://img.shields.io/badge/React-FFF5F8?style=flat-square&logo=react&logoColor=5B3A4A" />
+      <img src="https://img.shields.io/badge/React_Router-FFD1DC?style=flat-square&logo=reactrouter&logoColor=5B3A4A" />
+      <img src="https://img.shields.io/badge/Node.js-FFF5F8?style=flat-square&logo=nodedotjs&logoColor=5B3A4A" />
+      <img src="https://img.shields.io/badge/Express-FFD1DC?style=flat-square&logo=express&logoColor=5B3A4A" />
+      <img src="https://img.shields.io/badge/MySQL-FFF5F8?style=flat-square&logo=mysql&logoColor=5B3A4A" />
+      <img src="https://img.shields.io/badge/Docker_Compose-FFD1DC?style=flat-square&logo=docker&logoColor=5B3A4A" />
+      <img src="https://img.shields.io/badge/Jest-FFF5F8?style=flat-square&logo=jest&logoColor=5B3A4A" />
+      <img src="https://img.shields.io/badge/Google_Maps-FFD1DC?style=flat-square&logo=googlemaps&logoColor=5B3A4A" />
+    </td>
+    <td width="50%" valign="top">
       <h3>💸 <a href="https://github.com/nicog3314/montra">Montra</a></h3>
-      <p><em>Track Smarter. Spend Safer.</em><br/>
+      <p><em>Track Smarter. Spend Safer.</em> · group project<br/>
       Full-stack personal finance app with AI/ML-based fraud detection, risk scoring on transactions and a debt-minimization algorithm improved from O(N²) to O(N), validated with Pytest.</p>
       <img src="https://img.shields.io/badge/Next.js-FFF5F8?style=flat-square&logo=nextdotjs&logoColor=5B3A4A" />
       <img src="https://img.shields.io/badge/React-FFD1DC?style=flat-square&logo=react&logoColor=5B3A4A" />
@@ -52,21 +65,16 @@ Hi, I'm **Ana Clara**. I'm a Computer Science senior at the **University of Cent
       <img src="https://img.shields.io/badge/PostgreSQL-FFD1DC?style=flat-square&logo=postgresql&logoColor=5B3A4A" />
       <img src="https://img.shields.io/badge/Prisma-FFF5F8?style=flat-square&logo=prisma&logoColor=5B3A4A" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧳 <a href="https://github.com/brocw/mern-travel-agent">TripTastic</a></h3>
-      <p><em>Formerly TripTally.</em><br/>
+      <p><em>Formerly TripTally</em> · group project<br/>
       MERN travel app with Google Maps API integration, SendGrid for email, and JWT/bcrypt authentication.</p>
       <img src="https://img.shields.io/badge/MongoDB-FFF5F8?style=flat-square&logo=mongodb&logoColor=5B3A4A" />
       <img src="https://img.shields.io/badge/Express-FFD1DC?style=flat-square&logo=express&logoColor=5B3A4A" />
       <img src="https://img.shields.io/badge/React-FFF5F8?style=flat-square&logo=react&logoColor=5B3A4A" />
       <img src="https://img.shields.io/badge/Node.js-FFD1DC?style=flat-square&logo=nodedotjs&logoColor=5B3A4A" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/anaaclra04/idx-property-search">IDX Property Search</a></h3>
-      <p>Property search project built during my IDX Exchange internship.</p>
-      <img src="https://img.shields.io/badge/IDX_Exchange-FFD1DC?style=flat-square&logoColor=5B3A4A" />
     </td>
     <td width="50%" valign="top">
       <h3>🤿 DiverDex</h3>
@@ -98,7 +106,7 @@ Hi, I'm **Ana Clara**. I'm a Computer Science senior at the **University of Cent
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaaclra04&bg_color=ffffff&color=e8689b&line=f9a8c9&point=5b3a4a&area=true&area_color=ffd1dc&hide_border=true" alt="Contribution activity graph" width="100%" />
+<img src="./assets/activity.svg" alt="Contribution activity graph" width="100%" />
 
 </div>
 
@@ -108,7 +116,7 @@ Hi, I'm **Ana Clara**. I'm a Computer Science senior at the **University of Cent
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anaaclra04&theme=flat&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+<img src="./assets/trophies.svg" alt="GitHub trophies" width="100%" />
 
 </div>
 
@@ -134,6 +142,6 @@ Hi, I'm **Ana Clara**. I'm a Computer Science senior at the **University of Cent
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=110&section=footer%20FL&fontSize=16&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=110&section=footer&text=built%20with%20care%20in%20Orlando,%20FL&fontSize=16&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer" />
 
 </div>
