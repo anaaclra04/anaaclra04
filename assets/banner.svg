@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.6" stop-color="#FFF0F5"/>
+      <stop offset="1" stop-color="#FFD1DC"/>
+    </linearGradient>
+    <style>
+      .float1 { animation: f1 7s ease-in-out infinite; }
+      .float2 { animation: f2 9s ease-in-out infinite; }
+      @keyframes f1 { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+      @keyframes f2 { 0%,100% { transform: translateY(0); } 50% { transform: translateY(12px); } }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <circle class="float1" cx="1020" cy="80" r="70" fill="#F9A8C9" opacity="0.35"/>
+  <circle class="float2" cx="1110" cy="210" r="48" fill="#E8689B" opacity="0.25"/>
+  <circle class="float1" cx="930" cy="230" r="26" fill="#FFD1DC" opacity="0.9"/>
+  <text x="80" y="60" font-family="'Courier New', monospace" font-size="18" fill="#E8689B">&lt;hello world /&gt;</text>
+  <text x="80" y="140" font-family="Georgia, serif" font-size="58" font-weight="bold" fill="#5B3A4A">Ana Clara</text>
+  <text x="80" y="190" font-family="Georgia, serif" font-size="32" fill="#5B3A4A">Machado Goncalves</text>
+  <line x1="80" y1="212" x2="260" y2="212" stroke="#E8689B" stroke-width="3" stroke-linecap="round"/>
+  <text x="80" y="250" font-family="'Segoe UI', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#9B7A8A">SYSTEMS &amp; SOFTWARE EFFICIENCY ENGINEER</text>
+</svg>
