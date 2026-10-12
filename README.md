@@ -142,6 +142,6 @@ Hi, I'm **Ana Clara**. I'm a Computer Science senior at the **University of Cent
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=110&section=footer&text=built%20with%20care%20in%20Orlando,%20FL&fontSize=16&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=110&section=footer,%20FL&fontSize=16&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer" />
 
 </div>
