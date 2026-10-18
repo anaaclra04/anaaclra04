@@ -4,7 +4,7 @@
     <circle cx="69.0" cy="40" r="20" fill="#E8689B" opacity="0.18"/>
     <path d="M61.0 32h16v7a8 8 0 0 1-16 0z M61.0 34h-4a4 4 0 0 0 4 6 M77.0 34h4a4 4 0 0 1-4 6 M69.0 47v5 M64.0 52h10"
           fill="none" stroke="#E8689B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="69.0" y="94" text-anchor="middle" font-size="26" font-weight="700" fill="#5B3A4A">318</text>
+    <text x="69.0" y="94" text-anchor="middle" font-size="26" font-weight="700" fill="#5B3A4A">319</text>
     <text x="69.0" y="114" text-anchor="middle" font-size="12" font-weight="600" fill="#E8689B">contributions</text>
     <text x="69.0" y="131" text-anchor="middle" font-size="10.5" fill="#9B7A8A">last year</text>
   </g>
